@@ -1,5 +1,5 @@
 #GRPC调用demo
-## 该demo 掩饰了go 写的服务器，分别使用go、python client进行调用
+## 该demo 演示了go 写的服务器，分别使用go、python client进行调用
 ### 步骤：
 1. 编写example目录下的order.proto文件
 2. 终端执行命令生成go 代码  
